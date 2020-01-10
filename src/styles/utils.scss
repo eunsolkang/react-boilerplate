@@ -1,0 +1,11 @@
+@import "./libs/all";
+
+$breakpoints : (small: 320px, medium: 768px, large: 1024px, wide:1400px);
+
+$main-color : $oc-blue-6;
+
+$hover-color : $oc-blue-5;
+
+$active-color : $oc-blue-7;
+
+$font-color : white;
